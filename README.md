@@ -4,8 +4,7 @@ Elaborado um cenário para testes de consultas com querys SQL usando Postgresql 
 
 # Resultados das consultas
 
-![image](https://github.com/user-attachments/assets/3c753d64-980b-488e-8ede-84d8941ddc5d)
-
+![image](https://github.com/user-attachments/assets/607ef8c5-973f-4789-a335-2fa394ee8d31)
 
 ![image](https://github.com/user-attachments/assets/f23475ab-d831-44b1-8462-fd4357b1cfef)
 
